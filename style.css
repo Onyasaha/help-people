@@ -3,6 +3,28 @@ body{
     padding: 0;
 }
 #header{
-    background-color: aqua;
-    height: 200px;
+    background-image: url(img/street-gbbefa20f1_1920.jpg);
+    min-height: 800px;
+    background-repeat: no-repeat;
+}
+.header-text h1{
+    color: aliceblue;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 160px;
+    margin-top: 0px;
+}
+.header-text p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.header-text a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: #ff7675;
+    margin-left: 45%;
+    padding: 15px 40px;
+    border-radius: 5%;
 }
