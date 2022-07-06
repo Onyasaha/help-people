@@ -80,6 +80,9 @@ body{
     border-radius: 5%;
     font-size: 30px;
 }
+#plan{
+    margin-bottom: 200px;
+}
 #plan .text{
     text-align: center;
 }
@@ -119,4 +122,26 @@ body{
 }
 .head{
     font-size: 35px;
+}
+.work{
+    display: flex;
+    margin-left: 20%;
+}
+.word{
+    margin-right: 80px;
+    font-size: 22px;
+}
+#about h1{
+    text-align: center;
+    font-size: 70px;
+}
+.word a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: #ff7675;
+    padding: 20px 40px;
+    border-radius: 5%;
+}
+.word ul{
+    margin-bottom: 70px;
 }
