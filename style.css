@@ -38,18 +38,23 @@ body{
     margin-left: 24%;
 }
 .box{
-    margin-left: 40px;
     background-color: #dfe6e9;
     width: 200px;
     height: 130px;
     padding-top: 20px;
     color: #636e72;
     font-size: 30px;
+    margin-left: 30px;
 }
 .color{
     border: 3px solid #ff7675;
     background-color: #ffcccc;
     color: #ff7675;
+    width: 200px;
+    height: 130px;
+    margin-left: 40px;
+    padding-top: 20px;
+    font-size: 30px;
 }
 #donate{
     margin-bottom: 200px;
@@ -74,4 +79,44 @@ body{
     padding: 25px 40px;
     border-radius: 5%;
     font-size: 30px;
+}
+#plan .text{
+    text-align: center;
+}
+#plan .text h1{
+    font-size: 70px;
+}
+#plan p{
+    font-size: 25px;
+}
+.basic{
+    display: flex;
+    margin: 4% 10%;
+}
+.need{
+    margin-left: 40px;
+    background-color: #bff3fa;
+    width: 30%;
+    height: 300px;
+    padding: 40px 20px;
+    border-radius: 2%;
+}
+.family{
+    margin-left: 40px;
+    background-color: #fddbdb;
+    width: 30%;
+    height: 300px;
+    padding: 40px 20px;
+    border-radius: 2%;
+}
+.child{
+    margin-left: 40px;
+    background-color: #fce9ba;
+    width: 30%;
+    height: 300px;
+    padding: 40px 20px;
+    border-radius: 2%;
+}
+.head{
+    font-size: 35px;
 }
