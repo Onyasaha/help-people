@@ -14,12 +14,14 @@ body{
     text-align: center;
     padding-top: 160px;
     margin-top: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 .header-text p{
     color: white;
     text-align: center;
     font-size: 25px;
     margin-bottom: 50px;
+    font-family: 'Lato', sans-serif;
 }
 .header-text a{
     text-decoration: none;
@@ -62,11 +64,13 @@ body{
 #donate h1{
     font-size: 70px;
     margin-bottom: 100px;
+    font-family: 'Roboto', sans-serif;
 }
 #donate p{
     font-size: 25px;
     color: #636e72;
     margin-bottom: 60px;
+    font-family: 'Lato', sans-serif;
 }
 .taka{
     border-bottom: 2px solid #dfe6e9;
@@ -88,10 +92,12 @@ body{
 }
 #plan .text h1{
     font-size: 70px;
+    font-family: 'Roboto', sans-serif;
 }
 #plan p{
     font-size: 25px;
     color: #636e72;
+    font-family: 'Lato', sans-serif;
 }
 .basic{
     display: flex;
@@ -101,7 +107,7 @@ body{
     margin-left: 40px;
     background-color: #bff3fa;
     width: 30%;
-    height: 300px;
+    height: 400px;
     padding: 40px 20px;
     border-radius: 2%;
     
@@ -110,7 +116,7 @@ body{
     margin-left: 40px;
     background-color: #fddbdb;
     width: 30%;
-    height: 300px;
+    height: 400px;
     padding: 40px 20px;
     border-radius: 2%;
     
@@ -119,7 +125,7 @@ body{
     margin-left: 40px;
     background-color: #fce9ba;
     width: 30%;
-    height: 300px;
+    height: 400px;
     padding: 40px 20px;
     border-radius: 2%;
 }
@@ -141,6 +147,7 @@ body{
 #about h1{
     text-align: center;
     font-size: 70px;
+    font-family: 'Roboto', sans-serif;
 }
 .word a{
     text-decoration: none;
@@ -158,6 +165,7 @@ body{
 #causes h1{
     font-size: 70px;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 .service{
     display: flex;
@@ -179,10 +187,12 @@ body{
 }
 #update h1{
     font-size: 70px;
+    font-family: 'Roboto', sans-serif;
 }
 #update P{
     font-size: 20PX;
     color: #636e72;
+    font-family: 'Lato', sans-serif;
 }
 input[type=email] {
     width: 43%;
@@ -216,9 +226,11 @@ input[type=email] {
   FOOter h1{
     color: tomato;
     text-align: center;
+    font-family: 'Finlandica', sans-serif;
   }
   FOOter p{
     color: #636e72;
     font-size: 25px;
     text-align: center;
+    font-family: 'Lato', sans-serif;
   }
