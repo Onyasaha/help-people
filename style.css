@@ -6,6 +6,7 @@ body{
     background-image: url(img/street-gbbefa20f1_1920.jpg);
     min-height: 800px;
     background-repeat: no-repeat;
+    margin-bottom: 200px;
 }
 .header-text h1{
     color: aliceblue;
@@ -24,7 +25,53 @@ body{
     text-decoration: none;
     color: aliceblue;
     background-color: #ff7675;
-    margin-left: 45%;
-    padding: 15px 40px;
+    margin-left: 40%;
+    padding: 25px 40px;
     border-radius: 5%;
+    font-size: 30px;
+}
+#donate{
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin-left: 24%;
+}
+.box{
+    margin-left: 40px;
+    background-color: #dfe6e9;
+    width: 200px;
+    height: 130px;
+    padding-top: 20px;
+    color: #636e72;
+    font-size: 30px;
+}
+.color{
+    border: 3px solid #ff7675;
+    background-color: #ffcccc;
+    color: #ff7675;
+}
+#donate{
+    margin-bottom: 200px;
+}
+#donate h1{
+    font-size: 70px;
+    margin-bottom: 100px;
+}
+#donate p{
+    font-size: 25px;
+    color: #636e72;
+    margin-bottom: 60px;
+}
+.taka{
+    border-bottom: 2px solid #dfe6e9;
+    margin-bottom: 60px;
+}
+#donate a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: #ff7675;
+    padding: 25px 40px;
+    border-radius: 5%;
+    font-size: 30px;
 }
