@@ -91,6 +91,7 @@ body{
 }
 #plan p{
     font-size: 25px;
+    color: #636e72;
 }
 .basic{
     display: flex;
@@ -103,6 +104,7 @@ body{
     height: 300px;
     padding: 40px 20px;
     border-radius: 2%;
+    
 }
 .family{
     margin-left: 40px;
@@ -111,6 +113,7 @@ body{
     height: 300px;
     padding: 40px 20px;
     border-radius: 2%;
+    
 }
 .child{
     margin-left: 40px;
@@ -130,6 +133,7 @@ body{
 .word{
     margin-right: 80px;
     font-size: 22px;
+    color: #636e72;
 }
 #about{
     margin-bottom: 260px;
@@ -169,3 +173,52 @@ body{
     padding: 10px 30px;
     border-radius: 3%;
 }
+#update{
+    text-align: center;
+    margin-bottom: 200PX;
+}
+#update h1{
+    font-size: 70px;
+}
+#update P{
+    font-size: 20PX;
+    color: #636e72;
+}
+input[type=email] {
+    width: 43%;
+    padding: 22px 20px;
+    margin: 8px 0px;
+    box-sizing: border-box;
+    background-color: #dfe6e9;
+    border-radius: 4px;
+    outline: none;
+  }
+  .contact{
+    background-color: #fce9ba;
+    width: 40%;
+    height: 100px;
+    margin-left: 25%;
+    padding: 80px;
+  }
+  .email a{
+    text-decoration: none;
+    background-color: #ff7675;
+    color: azure;
+    padding: 18px 30px;
+    border-radius: 3%;
+    font-size: 25PX;
+  }
+  FOOter{
+    background-color: black;
+    height: 200px;
+    padding-top: 50px;
+  }
+  FOOter h1{
+    color: tomato;
+    text-align: center;
+  }
+  FOOter p{
+    color: #636e72;
+    font-size: 25px;
+    text-align: center;
+  }
